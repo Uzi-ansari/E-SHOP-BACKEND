@@ -11,8 +11,8 @@ Thumbs.db
 .vscode/
 
 # Config secrets
-backend/config/development.json
-backend/config/secret.json
+config/development.json
+config/secret.json
 
 # Dependencies
 node_modules/
